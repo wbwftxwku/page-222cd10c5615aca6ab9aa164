@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.rbuqsur.cn/sitemap.xml
